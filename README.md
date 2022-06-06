@@ -1,5 +1,5 @@
 # Atividade Técnica
-Tarefa técnica  - Engenharia de Dados
+Tarefa técnica
 ##### Desafio Técnico Wagner Felipe N. Santos#####
 
 
